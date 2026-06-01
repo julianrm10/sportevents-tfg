@@ -19,8 +19,8 @@ Plataforma web de gestión de torneos deportivos amateur. Permite a los usuarios
 1. **Clonar el repositorio**
 
    ```bash
-   git clone https://github.com/julianrm10/sportevents.git
-   cd sportevents
+   git clone https://github.com/julianrm10/sportevents-tfg.git
+   cd sportevents-tfg
    ```
 
 2. **Instalar dependencias**
